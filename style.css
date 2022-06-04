@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://w0.peakpx.com/wallpaper/755/42/HD-wallpaper-soldier-pakistan-isi-ssg-army-pak-commando-hero-war.jpg);
+    background-size: cover;
+}
+
+.wrap{
+
+    width: 800px;
+    height: 700px;
+    margin: 30px auto;
+    
+ }
+ h3{
+     font-size: 25px;
+     color: white;
+     text-align: center;
+ }
+
+ h4{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
